@@ -1,0 +1,27 @@
+{
+  "name": "get-substring-by-range",
+  "version": "1.0.0",
+  "description": "A simple function to get a (sometimes circular) chunk of a string. Takes in 0-based start and end params.",
+  "main": "getSubstringByRange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnrich/getSubstringByRange.git"
+  },
+  "keywords": [
+    "string",
+    "range",
+    "substring",
+    "zero-based",
+    "circular",
+    "wrap"
+  ],
+  "author": "tnrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnrich/getSubstringByRange/issues"
+  },
+  "homepage": "https://github.com/tnrich/getSubstringByRange#readme"
+}
